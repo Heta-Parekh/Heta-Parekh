@@ -5,7 +5,7 @@
 
 ### 👩🏻‍💻 About Me
 
-- 👩🏻‍🏫 Pursuing Master's in Information Systems at **[California State University, LA](https://www.calstatela.edu/)**
+- 👩🏻‍🏫 Pursuing Master's in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**
 - 👯 Building analytical reports using data wrangling of large and complex datasets
 - 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
 - 🌱 Built visualizations using R ggplot2 and Python Matplotlib
