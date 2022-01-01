@@ -25,34 +25,3 @@
 <span><img src="https://img.icons8.com/windows/128/000000/r-project.png" height="50" width="50" /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/hadoop-distributed-file-system.png" height="50" width="50 /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/oracle-logo.png" height="50" width="50 /></span/>
-
-
-
-
-<p  align="center">
-<a href="https://github.com/Heta-Parekh">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiddhiDamani&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" height="180em"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RiddhiDamani&layout=compact&langs_count=8&theme=great-gatsby" height="180em" />
-</a>
-</p> -->
-
-### 🤝🏻 &nbsp;Connect with Me
-<!-- 
-<p>
-<a href="https://riddhidamani.github.io/Portfolio/"><img src="https://img.shields.io/badge/-riddhidamani.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/riddhidamani/"><img src="https://img.shields.io/badge/-Riddhi%20Damani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:riddhidamani90@gmail.com"><img src="https://img.shields.io/badge/-riddhidamani90@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/riddhi.damani"><img src="https://img.shields.io/badge/-@riddhi.damani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.pinterest.com/riddhidamani1611/"><img src="https://img.shields.io/badge/-@riddhidamani1611-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-</p>
-<div align="left">
-<p>
- <img src="https://badges.pufler.dev/visits/RiddhiDamani/RiddhiDamani"/>
-<!-- <br />
- <img src="https://badges.pufler.dev/repos/RiddhiDamani"/> 
- <br/> -->
-
- <img src="https://badges.pufler.dev/commits/monthly/RiddhiDamani" />
-
-</p> -->
-</div>
