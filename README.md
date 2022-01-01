@@ -11,7 +11,7 @@
 - 🌱 Currently learning ReactJS and C#
 - 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills by LeetCoding
 - 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
-- 📫 How to reach me: **riddhidamani90@gmail.com**
+- 📫 How to reach me: **parekhheta2@gmail.com**
 - 😄 Pronouns: her/she
 - 😎 Innate Nature : Hardworking and Focused 🎯
 
@@ -30,14 +30,14 @@
 <span><img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50" /></span>
 </div>
 
-### 🏆 Github Status
+<!-- ### 🏆 Github Status
 
 <p  align="center">
 <a href="https://github.com/Heta-Parekh">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiddhiDamani&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" height="180em"/>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RiddhiDamani&layout=compact&langs_count=8&theme=great-gatsby" height="180em" />
 </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 <!-- 
