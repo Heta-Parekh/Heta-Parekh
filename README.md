@@ -22,7 +22,8 @@
 <span><img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50" /></span>
 <span><img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50" /></span>
 <span><img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50" /></span>
-<span><img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50" /></span>
+<span><img src="https://img.icons8.com/windows/128/000000/r-project.png" height="50" width="50" /></span/>
+
 </div>
 
 <!-- ### 🏆 Github Status
