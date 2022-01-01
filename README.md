@@ -9,7 +9,7 @@
 - 👯 Building analytical reports using data wrangling of large and complex datasets
 - 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
 - 🌱 Built visualizations using R ggplot2 and Python Matplotlib
-- 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills by LeetCoding
+- 🦹🏻‍♀️ Brushing up SQL by solving complex queries in HackerRank
 - 📫 How to reach me: **parekhheta2@gmail.com**
 - 😄 Pronouns: her/she
 - 😎 Innate Nature : Hardworking and Progress-Focused 🎯
