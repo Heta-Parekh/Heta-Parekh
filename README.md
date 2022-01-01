@@ -6,18 +6,13 @@
 ### 👩🏻‍💻 About Me
 
 - 👩🏻‍🏫 Pursuing Master's in Information Systems at **[California State University, LA](https://www.calstatela.edu/)**
-- 👯 Enjoy contributing to open source projects in leisure
-- 👩🏻‍🎨 Love developing cool web and android mobile apps
-- 🌱 Currently learning ReactJS and C#
+- 👯 Building analytical reports using data wrangling of large and complex datasets
+- 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
+- 🌱 Built visualizations using R ggplot2 and Python Matplotlib
 - 🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills by LeetCoding
-- 👩🏻‍💻 You can find all my projects here: **[My Portfolio](https://riddhidamani.github.io/Portfolio/)**
 - 📫 How to reach me: **parekhheta2@gmail.com**
 - 😄 Pronouns: her/she
-- 😎 Innate Nature : Hardworking and Focused 🎯
-
-### ✨ Motto
-
-<em>"Hustle silently and your results will speak volumes!"</em>
+- 😎 Innate Nature : Hardworking and Progress-Focused 🎯
 
 ### 👩🏻‍💻 Languages and Tools
 
