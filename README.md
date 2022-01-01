@@ -25,9 +25,9 @@
 <span><img src="https://img.icons8.com/windows/128/000000/r-project.png" height="50" width="50" /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/hadoop-distributed-file-system.png" height="50" width="50 /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/oracle-logo.png" height="50" width="50 /></span/>
-</div>
 
-<!-- ### 🏆 Github Status
+
+
 
 <p  align="center">
 <a href="https://github.com/Heta-Parekh">
