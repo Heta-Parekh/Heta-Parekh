@@ -27,7 +27,7 @@
 <img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50" style="margin: 8px" />
 <img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50" style="margin: 8px" />
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50" style="margin: 8px" />
-<img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50" style="margin: 8px" />
+<img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50" style="margin: 20px" />
 
 </div>
 
