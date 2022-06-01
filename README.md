@@ -1,5 +1,5 @@
 <img src="images/data-analytics-bg.jpg" width="100%" height="250"> 
-<h2 align="center">Hey there, I'm Heta Parekh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+<h2 align="center">Hey there, I'm Heta Parekh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h2>
 <h3 align="center"> Seek Data & Business Insights Analyst </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
